@@ -1,0 +1,105 @@
+const imagePathList = [
+  "dark-soya-85.jpeg",
+  "tomato-ketchup-kg.jpeg",
+  "tomato-ketchup-200.jpeg",
+  "tomato-ketchup-85.jpeg",
+  "synthetic-vinegar-kg.jpeg",
+  "synthectic-vinegar-200.jpeg",
+  "red-chilli-kg.jpeg",
+  "red-chilli-200.jpeg",
+  "red-chilli-85.jpeg",
+  "logo.jpeg",
+  "green-chilli-kg.jpeg",
+  "green-chilli-200.jpeg",
+  "green-chilli-85.jpeg",
+  "dark-soya-kg.jpeg",
+  "dark-soya-200.jpeg",
+];
+
+export const ImageData = [
+  {
+    category: "dark-soya",
+    name: "Dark Soya Sauce",
+    variant: "85",
+    path: "dark-soya-85.jpeg",
+  },
+  {
+    category: "dark-soya",
+    name: "dark soya",
+    variant: "kg",
+    path: "dark-soya-kg.jpeg",
+  },
+  {
+    category: "dark-soya",
+    name: "dark soya",
+    variant: "200",
+    path: "dark-soya-200.jpeg",
+  },
+  {
+    category: "green-chilli",
+    name: "green chilli",
+    variant: "kg",
+    path: "green-chilli-kg.jpeg",
+  },
+  {
+    category: "green-chilli",
+    name: "green chilli",
+    variant: "200",
+    path: "green-chilli-200.jpeg",
+  },
+  {
+    category: "green-chilli",
+    name: "green chilli",
+    variant: "85",
+    path: "green-chilli-85.jpeg",
+  },
+
+  {
+    category: "red-chilli",
+    name: "red chilli",
+    variant: "kg",
+    path: "red-chilli-kg.jpeg",
+  },
+  {
+    category: "red-chilli",
+    name: "red chilli",
+    variant: "200",
+    path: "red-chilli-200.jpeg",
+  },
+  {
+    category: "red-chilli",
+    name: "red chilli",
+    variant: "85",
+    path: "red-chilli-85.jpeg",
+  },
+  {
+    category: "synthetic-vinegar",
+    name: "synthetic vinegar",
+    variant: "kg",
+    path: "synthetic-vinegar-kg.jpeg",
+  },
+  {
+    category: "synthetic-vinegar",
+    name: "synthectic vinegar",
+    variant: "200",
+    path: "synthectic-vinegar-200.jpeg",
+  },
+  {
+    category: "tomato-ketchup",
+    name: "tomato ketchup",
+    variant: "kg",
+    path: "tomato-ketchup-kg.jpeg",
+  },
+  {
+    category: "tomato-ketchup",
+    name: "tomato ketchup",
+    variant: "200",
+    path: "tomato-ketchup-200.jpeg",
+  },
+  {
+    category: "tomato-ketchup",
+    name: "tomato ketchup",
+    variant: "85",
+    path: "tomato-ketchup-85.jpeg",
+  },
+];
